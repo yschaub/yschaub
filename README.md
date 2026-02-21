@@ -4,4 +4,4 @@ Designer turned maker. I run [gastrosync.com](https://gastrosync.com) (closed so
 
 ### Current Projects
 
-🤖 [yschaub/codex-telegram](https://github.com/yschaub/codex-telegram) - A powerful Telegram bot that provides remote access to Codex CLI
+🤖 [codex-telegram](https://github.com/yschaub/codex-telegram) - A powerful Telegram bot that provides remote access to Codex CLI
